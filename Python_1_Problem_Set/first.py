@@ -39,3 +39,15 @@ print("My favorite color:" , color)
 print("My favorite activity:" , activity)
 print("My favorite animal:" , animal)
 
+# Create space
+print(blank_space)
+# Added bellow phrase to print
+print("Combining prints into 1 command")
+
+# Try printing under one command
+print(
+"My name:" , name , "\n"
+"My favorite color:" , color , "\n"
+"My favorite activity:" , activity , "\n"
+"My favorite animal:" , animal
+)
